@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Weather() {
   return (
     <section className='weather w-full h-screen bg-primary flex flex-col justify-around items-center px-5 md:px-28'>
@@ -22,7 +23,7 @@ function Weather() {
             <h1 className='font-bold text-black  md:my-2 md:text-lg lg:text-sm lg:my-0 xl:my-2 xl:text-lg'>Humidity: 10%</h1>
             <h1 className='font-bold text-black  md:my-2 md:text-lg lg:text-sm lg:my-0 xl:my-2 xl:text-lg'>Wind: 10km/h</h1>      
             </div>                 
-        </div>       
+        </div>                      
     </section>
   )
 }
