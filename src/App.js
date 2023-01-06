@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <StartedPage></StartedPage>
-      <WeatherPage></WeatherPage>
+      <WeatherPage></WeatherPage>      
     </div>
   )
 }

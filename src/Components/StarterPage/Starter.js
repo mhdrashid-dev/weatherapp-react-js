@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Starter() {
   return (
     <section className='starter w-full h-screen bg-primary flex flex-col items-center py-10'>
@@ -10,7 +11,7 @@ function Starter() {
       </div>
       <div className="footer mt-auto ">
         <h6 className='text-black text-xs 2xl:text-sm'>copyrights @ https://api.weatherapi.com</h6>
-      </div>      
+      </div>                 
     </section>
   )
 }

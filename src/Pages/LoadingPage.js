@@ -1,9 +1,10 @@
 import React from 'react'
+import Loading from '../Components/LoadigPage/Loading'
 
 function LoadingPage() {
   return (
     <div>
-      <LoadingPage></LoadingPage>
+      <Loading></Loading>
     </div>
   )
 }
